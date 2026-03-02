@@ -1,1 +1,1 @@
-# avinav2401-PalindromeCheckerApp
+# PalindromeCheckerApp
