@@ -1,6 +1,6 @@
 /*
 This class will print the details of the App.
-* @author Avinav priyadrshi9
+* @author Avinav priyadrshi
 * @Version 10.0
 *
 * */
